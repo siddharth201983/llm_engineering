@@ -14,4 +14,4 @@ scikit-learn
 sentence-transformers
 IProgress
 nbformat
-nbformat
+gradio
