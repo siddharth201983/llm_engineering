@@ -2,3 +2,16 @@ requests
 dotenv
 openai
 IPython
+tiktoken
+langchain_openai
+langchain_chroma
+langchain_huggingface
+langchain_community
+langchain_text_splitters
+plotly
+numpy
+scikit-learn
+sentence-transformers
+IProgress
+nbformat
+nbformat
